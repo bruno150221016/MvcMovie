@@ -29,7 +29,7 @@ namespace MvcMovie
                 }
             }
 
-            host.Run();
+            host.Run(); //teste
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
